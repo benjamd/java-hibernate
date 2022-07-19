@@ -1,0 +1,13 @@
+ar/com/benjamd/dao/ContactoDAO.class
+ar/com/benjamd/domain/Asignacion.class
+ar/com/benjamd/test/ciclodevida/Estado1Persistido.class
+ar/com/benjamd/dao/AsignacionDAO.class
+ar/com/benjamd/domain/Domicilio.class
+ar/com/benjamd/dao/DomicilioDAO.class
+ar/com/benjamd/dao/AlumnoDAO.class
+ar/com/benjamd/dao/GenericDAO.class
+ar/com/benjamd/domain/Curso.class
+ar/com/benjamd/dao/CursoDAO.class
+ar/com/benjamd/domain/Alumno.class
+ar/com/benjamd/domain/Contacto.class
+ar/com/benjamd/test/TestDAOs.class

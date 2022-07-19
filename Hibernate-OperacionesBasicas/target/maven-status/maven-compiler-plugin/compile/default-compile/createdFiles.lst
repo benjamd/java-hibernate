@@ -1,0 +1,4 @@
+ar/com/benjamd/domain/Persona.class
+test/HolaMundoHibernate.class
+test/OperacionesHibernateJPA.class
+ar/com/benjamd/dao/PersonaDAO.class

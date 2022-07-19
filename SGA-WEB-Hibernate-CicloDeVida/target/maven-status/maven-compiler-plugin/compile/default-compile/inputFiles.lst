@@ -1,0 +1,13 @@
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/dao/AlumnoDAO.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/domain/Asignacion.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/test/ciclodevida/Estado1Persistido.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/domain/Curso.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/test/TestDAOs.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/dao/DomicilioDAO.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/domain/Contacto.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/domain/Alumno.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/dao/CursoDAO.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/dao/ContactoDAO.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/dao/AsignacionDAO.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/domain/Domicilio.java
+/home/benja/NetBeansProjects/Hibernate/SGA-WEB-Hibernate-CicloDeVida/src/main/java/ar/com/benjamd/dao/GenericDAO.java
